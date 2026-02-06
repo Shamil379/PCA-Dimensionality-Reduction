@@ -1,0 +1,4 @@
+Accuracy Comparison Report
+
+Original Dataset Accuracy : 0.9722
+PCA Reduced Dataset Accuracy (30 components) : 0.9583
